@@ -96,3 +96,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [27Aug2025 00:52:44.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
 [27Aug2025 01:00:33.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1448
 [27Aug2025 01:01:48.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1448 -2560
+[27Aug2025 01:09:13.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> 160 319
+[27Aug2025 01:10:49.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Problem when finding a nearby player, If you see this please report it to dragonzgikil!

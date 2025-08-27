@@ -1455,3 +1455,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Aug2025 01:01:48.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1448 -2560
 [27Aug2025 01:05:44.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Aug2025 01:05:44.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 01:09:13.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> 160 319
+[27Aug2025 01:10:44.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 01:10:44.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 01:10:49.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Problem when finding a nearby player, If you see this please report it to dragonzgikil!
+[27Aug2025 01:15:44.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 01:15:44.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
