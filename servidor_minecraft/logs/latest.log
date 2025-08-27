@@ -101,3 +101,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [27Aug2025 01:18:18.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson was slain by The Locust
 [27Aug2025 01:18:18.347] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jorgelson with unique ID travelersbackpack.spider_27.08.2025-01.18.18.dat
 [27Aug2025 01:18:18.349] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -169 Y: 128 Z: -335
+[27Aug2025 01:51:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -185 -323
+[27Aug2025 01:52:36.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1480 -2584
