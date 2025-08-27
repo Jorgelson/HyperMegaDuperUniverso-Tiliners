@@ -103,3 +103,12 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [27Aug2025 01:18:18.349] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -169 Y: 128 Z: -335
 [27Aug2025 01:51:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -185 -323
 [27Aug2025 01:52:36.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1480 -2584
+[27Aug2025 02:00:05.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
+[27Aug2025 02:00:05.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[27Aug2025 02:00:06.043] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Aug2025 02:00:23.749] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.46.195.96:52091] logged in with entity id 19425 at (-1481.1208441654576, 59.0, -2584.5)
+[27Aug2025 02:00:23.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[27Aug2025 02:01:31.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson died
+[27Aug2025 02:01:31.699] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jorgelson with unique ID travelersbackpack.spider_27.08.2025-02.01.31.dat
+[27Aug2025 02:01:31.699] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1465 Y: 65 Z: -2613
+[27Aug2025 02:02:51.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1480.43 64.00 -2668.67
