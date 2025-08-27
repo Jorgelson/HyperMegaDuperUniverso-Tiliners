@@ -94,3 +94,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [27Aug2025 00:45:35.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
 [27Aug2025 00:52:44.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.46.195.96:41449] logged in with entity id 1696 at (-160.298251470272, 129.0, -320.5146443876209)
 [27Aug2025 00:52:44.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[27Aug2025 01:00:33.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1448
+[27Aug2025 01:01:48.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1448 -2560
