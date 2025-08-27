@@ -112,3 +112,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [27Aug2025 02:01:31.699] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jorgelson with unique ID travelersbackpack.spider_27.08.2025-02.01.31.dat
 [27Aug2025 02:01:31.699] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1465 Y: 65 Z: -2613
 [27Aug2025 02:02:51.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1480.43 64.00 -2668.67
+[27Aug2025 02:11:55.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
+[27Aug2025 02:11:55.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
