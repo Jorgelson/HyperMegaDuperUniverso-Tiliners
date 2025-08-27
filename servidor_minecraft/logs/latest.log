@@ -87,3 +87,8 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [27Aug2025 00:25:41.833] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [27Aug2025 00:32:39.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.46.195.96:38759] logged in with entity id 15 at (-1469.8965353799406, 69.875, -2581.4420970298925)
 [27Aug2025 00:32:39.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[27Aug2025 00:35:55.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
+[27Aug2025 00:38:48.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> facing west -181 -320
+[27Aug2025 00:39:19.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -161 -320
+[27Aug2025 00:45:35.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
+[27Aug2025 00:45:35.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
