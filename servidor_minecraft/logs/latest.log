@@ -108,3 +108,6 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [28Aug2025 17:47:59.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
 [28Aug2025 17:48:11.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -191.45 118.00 -416.54
 [28Aug2025 17:48:32.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -191.45 118.00 -416.54
+[28Aug2025 17:57:30.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> 656 623 del video
+[28Aug2025 17:58:01.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -191.45 118.00 -416.54
+[28Aug2025 17:58:30.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1528 -3328
