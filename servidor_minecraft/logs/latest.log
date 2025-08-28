@@ -104,3 +104,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [28Aug2025 17:28:57.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -191.45 118.00 -416.54 portal nether centro chanber
 [28Aug2025 17:34:00.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
 [28Aug2025 17:34:00.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[28Aug2025 17:47:59.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.46.195.96:55189] logged in with entity id 29396 at (-175.43685541765115, 128.0, -406.30177903612685)
+[28Aug2025 17:47:59.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[28Aug2025 17:48:11.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -191.45 118.00 -416.54
+[28Aug2025 17:48:32.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -191.45 118.00 -416.54
