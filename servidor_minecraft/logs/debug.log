@@ -1310,3 +1310,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [28Aug2025 16:19:31.091] [Server thread/DEBUG] [io.netty.util.internal.ThreadLocalRandom/]: -Dio.netty.initialSeedUniquifier: 0x797d087cb6b98330
 [28Aug2025 16:23:50.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Aug2025 16:23:50.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Aug2025 16:28:50.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Aug2025 16:28:50.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Aug2025 16:32:12.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Problem when finding a nearby player, If you see this please report it to dragonzgikil!
+[28Aug2025 16:33:50.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Aug2025 16:33:50.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Aug2025 16:36:24.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -14062 -2565
+[28Aug2025 16:36:25.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> casa
+[28Aug2025 16:38:08.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-187, y=118, z=-374} BlockPos{x=-186, y=119, z=-375}
+[28Aug2025 16:38:08.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-187, y=118, z=-374} BlockPos{x=-186, y=119, z=-375}
+[28Aug2025 16:38:08.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-187, y=118, z=-374} BlockPos{x=-186, y=119, z=-375}
+[28Aug2025 16:38:08.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-187, y=118, z=-374} BlockPos{x=-186, y=119, z=-375}

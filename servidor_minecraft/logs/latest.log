@@ -87,3 +87,10 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [28Aug2025 16:19:28.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.46.195.96:57821] logged in with entity id 15 at (-1471.590405801709, 75.0, -2580.4781623836257)
 [28Aug2025 16:19:28.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
 [28Aug2025 16:19:30.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2923ms or 58 ticks behind
+[28Aug2025 16:32:12.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Problem when finding a nearby player, If you see this please report it to dragonzgikil!
+[28Aug2025 16:36:24.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -14062 -2565
+[28Aug2025 16:36:25.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> casa
+[28Aug2025 16:38:08.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-187, y=118, z=-374} BlockPos{x=-186, y=119, z=-375}
+[28Aug2025 16:38:08.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-187, y=118, z=-374} BlockPos{x=-186, y=119, z=-375}
+[28Aug2025 16:38:08.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-187, y=118, z=-374} BlockPos{x=-186, y=119, z=-375}
+[28Aug2025 16:38:08.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-187, y=118, z=-374} BlockPos{x=-186, y=119, z=-375}
