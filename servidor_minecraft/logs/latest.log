@@ -102,3 +102,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [28Aug2025 17:08:08.905] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-207, y=121, z=-404} BlockPos{x=-207, y=121, z=-418}
 [28Aug2025 17:27:44.655] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=122, z=-422} BlockPos{x=-178, y=122, z=-422}
 [28Aug2025 17:28:57.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -191.45 118.00 -416.54 portal nether centro chanber
+[28Aug2025 17:34:00.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
+[28Aug2025 17:34:00.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
