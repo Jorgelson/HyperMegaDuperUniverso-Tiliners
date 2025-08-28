@@ -118,3 +118,20 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [28Aug2025 18:37:13.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
 [28Aug2025 18:39:26.997] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.46.195.96:49849] logged in with entity id 59127 at (-1475.103960976916, 74.31433560295754, -2684.7548224737407)
 [28Aug2025 18:39:27.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[28Aug2025 19:04:30.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson was slain by Follower
+[28Aug2025 19:04:30.241] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jorgelson with unique ID travelersbackpack.spider_28.08.2025-19.04.30.dat
+[28Aug2025 19:04:30.242] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1480 Y: 72 Z: -2549
+[28Aug2025 19:07:59.744] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
+[28Aug2025 19:07:59.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[28Aug2025 19:08:05.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Aug2025 19:08:05.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Aug2025 19:08:05.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Aug2025 19:08:06.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Aug2025 19:08:06.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Aug2025 19:08:06.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Aug2025 19:08:06.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/doctor_nowhere_mod:parallel_universe
+[28Aug2025 19:08:06.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Aug2025 19:08:06.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Aug2025 19:08:06.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Aug2025 19:08:06.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (parallel_universe): All chunks are saved
+[28Aug2025 19:08:06.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
