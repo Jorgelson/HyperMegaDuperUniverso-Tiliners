@@ -1562,3 +1562,331 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Aug2025 02:03:33.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> apura mrd para enseñarte
 [29Aug2025 02:03:36.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> aver deja pruebo esta que no se que hace jsjs
 [29Aug2025 02:04:04.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> apura mrd
+[29Aug2025 02:04:38.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> no me deja dpprmir sjs
+[29Aug2025 02:04:57.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 02:04:57.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 02:05:05.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> vamos
+[29Aug2025 02:05:17.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> vamos vamos
+[29Aug2025 02:05:35.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bakhu_sa lost connection: Disconnected
+[29Aug2025 02:05:35.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa left the game
+[29Aug2025 02:05:35.845] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Aug2025 02:05:56.050] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[29Aug2025 02:05:56.086] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[29Aug2025 02:05:56.144] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[29Aug2025 02:05:56.185] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[29Aug2025 02:05:56.235] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[29Aug2025 02:05:56.286] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[29Aug2025 02:05:56.324] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[29Aug2025 02:05:56.325] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[29Aug2025 02:05:56.325] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, doctor_nowhere_mod, myserveriscompatible, geckolib, themimic_er, jei, the_knocker, boiled_reimagined, forge, tlskincape, darkness, travelersbackpack]
+[29Aug2025 02:05:56.325] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_knocker:the_knocker' : Version test of '1' from client : ACCEPTED
+[29Aug2025 02:05:56.325] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'boiled_reimagined:boiled_reimagined' : Version test of '1' from client : ACCEPTED
+[29Aug2025 02:05:56.325] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[29Aug2025 02:05:56.325] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'themimic_er:main' : Version test of '2' from client : ACCEPTED
+[29Aug2025 02:05:56.325] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[29Aug2025 02:05:56.325] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[29Aug2025 02:05:56.325] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[29Aug2025 02:05:56.325] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[29Aug2025 02:05:56.325] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[29Aug2025 02:05:56.325] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Version test of 'travelersbackpack:1' from client : ACCEPTED
+[29Aug2025 02:05:56.325] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'doctor_nowhere_mod:doctor_nowhere_mod' : Version test of '1' from client : ACCEPTED
+[29Aug2025 02:05:56.325] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[29Aug2025 02:05:56.325] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[29Aug2025 02:05:56.325] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[29Aug2025 02:05:56.325] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[29Aug2025 02:05:56.325] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[29Aug2025 02:05:56.341] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[29Aug2025 02:05:56.365] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[29Aug2025 02:05:56.365] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:56.365] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:56.386] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[29Aug2025 02:05:56.415] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[29Aug2025 02:05:56.415] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:56.415] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:56.436] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[29Aug2025 02:05:56.486] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[29Aug2025 02:05:56.538] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[29Aug2025 02:05:56.591] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[29Aug2025 02:05:56.640] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[29Aug2025 02:05:56.690] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[29Aug2025 02:05:56.736] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[29Aug2025 02:05:56.786] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 14
+[29Aug2025 02:05:56.818] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[29Aug2025 02:05:56.818] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:56.818] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:56.818] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[29Aug2025 02:05:56.818] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:56.818] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:56.818] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[29Aug2025 02:05:56.818] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:56.818] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:56.837] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 15
+[29Aug2025 02:05:56.888] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 16
+[29Aug2025 02:05:56.936] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[29Aug2025 02:05:56.985] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[29Aug2025 02:05:56.996] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[29Aug2025 02:05:56.996] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:56.996] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:56.996] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[29Aug2025 02:05:56.996] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:56.996] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:56.996] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[29Aug2025 02:05:56.996] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:56.996] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:56.996] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[29Aug2025 02:05:56.996] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:56.996] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:56.996] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[29Aug2025 02:05:56.997] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:56.997] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:56.997] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[29Aug2025 02:05:56.997] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:56.997] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:57.038] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[29Aug2025 02:05:57.094] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[29Aug2025 02:05:57.136] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config themimic_er-server.toml' to 'fml:handshake' sequence 21
+[29Aug2025 02:05:57.169] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[29Aug2025 02:05:57.169] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:57.169] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:57.169] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[29Aug2025 02:05:57.169] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:57.169] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:57.171] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[29Aug2025 02:05:57.171] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:57.171] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:57.171] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[29Aug2025 02:05:57.171] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:57.171] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:57.171] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[29Aug2025 02:05:57.171] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:57.171] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:57.172] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[29Aug2025 02:05:57.172] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:57.172] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:57.185] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config travelersbackpack-server.toml' to 'fml:handshake' sequence 22
+[29Aug2025 02:05:57.216] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[29Aug2025 02:05:57.216] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:57.217] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:57.237] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 23
+[29Aug2025 02:05:57.286] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 24
+[29Aug2025 02:05:57.336] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config the_boiled_one_reimagined-server.toml' to 'fml:handshake' sequence 25
+[29Aug2025 02:05:57.745] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[29Aug2025 02:05:57.746] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:57.746] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:57.746] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[29Aug2025 02:05:57.746] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:57.746] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:57.748] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[29Aug2025 02:05:57.748] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:57.748] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:57.748] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[29Aug2025 02:05:57.748] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:57.748] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:57.748] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[29Aug2025 02:05:57.748] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:57.748] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:57.749] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[29Aug2025 02:05:57.749] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[29Aug2025 02:05:57.749] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[29Aug2025 02:05:57.786] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[29Aug2025 02:05:57.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bakhu_sa[/127.115.12.219:58663] logged in with entity id 1600 at (-1468.5, 66.0, -2580.5)
+[29Aug2025 02:05:57.843] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@1cc5a5d7 into net.minecraft.network.Connection@210bcfed
+[29Aug2025 02:05:57.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa joined the game
+[29Aug2025 02:06:04.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> andas de mañoso
+[29Aug2025 02:06:46.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ven ven
+[29Aug2025 02:06:47.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ontas
+[29Aug2025 02:07:08.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> aaa aqui esta el porta ahora
+[29Aug2025 02:07:13.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> pero no entrs
+[29Aug2025 02:07:18.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> osea eso es lo que ya estaba
+[29Aug2025 02:07:28.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ven aca está la granja de oro
+[29Aug2025 02:08:16.686] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1499.08, y=69.17, z=-2872.12]]
+[29Aug2025 02:08:17.329] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1510.77, y=71.02, z=-2900.34]]
+[29Aug2025 02:08:17.629] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1500.47, y=68.12, z=-2878.42]]
+[29Aug2025 02:08:20.179] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1510.99, y=70.75, z=-2919.60]]
+[29Aug2025 02:08:21.529] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1508.74, y=68.42, z=-2892.00]]
+[29Aug2025 02:08:23.029] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1510.78, y=70.00, z=-2896.16]]
+[29Aug2025 02:08:26.280] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1510.67, y=70.00, z=-2906.94]]
+[29Aug2025 02:08:28.218] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1509.44, y=70.75, z=-2919.88]]
+[29Aug2025 02:08:28.779] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1508.84, y=71.18, z=-2949.75]]
+[29Aug2025 02:08:30.278] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1508.02, y=71.02, z=-2934.67]]
+[29Aug2025 02:08:30.579] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1506.03, y=69.23, z=-2961.50]]
+[29Aug2025 02:08:31.179] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1506.15, y=70.75, z=-2965.52]]
+[29Aug2025 02:08:32.928] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1505.51, y=70.42, z=-2976.56]]
+[29Aug2025 02:08:33.529] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1506.55, y=70.42, z=-2957.88]]
+[29Aug2025 02:08:34.279] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1506.55, y=69.75, z=-2963.12]]
+[29Aug2025 02:08:34.428] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1506.57, y=70.25, z=-2964.15]]
+[29Aug2025 02:08:35.378] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1493.61, y=71.02, z=-2985.95]]
+[29Aug2025 02:08:35.529] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1506.76, y=71.25, z=-2971.86]]
+[29Aug2025 02:08:36.028] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1488.88, y=73.00, z=-2986.87]]
+[29Aug2025 02:08:36.580] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1486.32, y=74.25, z=-2988.67]]
+[29Aug2025 02:08:37.428] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1499.77, y=71.25, z=-2982.17]]
+[29Aug2025 02:08:38.428] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1494.84, y=71.00, z=-2984.73]]
+[29Aug2025 02:08:40.228] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1491.05, y=72.00, z=-2986.33]]
+[29Aug2025 02:08:40.478] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1477.08, y=72.25, z=-3013.40]]
+[29Aug2025 02:08:41.378] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1485.20, y=74.02, z=-2990.48]]
+[29Aug2025 02:08:41.878] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1477.65, y=72.17, z=-3020.03]]
+[29Aug2025 02:08:42.528] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1483.57, y=74.00, z=-2994.44]]
+[29Aug2025 02:08:42.978] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1476.43, y=72.00, z=-3027.17]]
+[29Aug2025 02:08:43.128] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1482.23, y=74.00, z=-2996.81]]
+[29Aug2025 02:08:44.278] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1473.82, y=72.00, z=-3034.38]]
+[29Aug2025 02:08:44.428] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1480.52, y=74.12, z=-3002.47]]
+[29Aug2025 02:08:44.778] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1472.73, y=72.80, z=-3037.42]]
+[29Aug2025 02:08:45.228] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1471.63, y=73.25, z=-3040.21]]
+[29Aug2025 02:08:46.328] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1468.31, y=71.00, z=-3045.89]]
+[29Aug2025 02:08:46.578] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1477.62, y=70.12, z=-3016.70]]
+[29Aug2025 02:08:48.078] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1477.81, y=72.18, z=-3021.02]]
+[29Aug2025 02:08:50.978] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1461.40, y=73.98, z=-3073.70]]
+[29Aug2025 02:08:51.128] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1474.10, y=72.00, z=-3036.12]]
+[29Aug2025 02:08:51.478] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1472.71, y=73.00, z=-3037.76]]
+[29Aug2025 02:08:51.828] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1460.77, y=76.55, z=-3074.70]]
+[29Aug2025 02:08:52.478] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1468.71, y=72.12, z=-3042.74]]
+[29Aug2025 02:08:52.628] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1460.27, y=78.00, z=-3075.83]]
+[29Aug2025 02:08:52.778] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1468.16, y=73.25, z=-3044.88]]
+[29Aug2025 02:08:58.678] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1456.11, y=76.00, z=-3073.66]]
+[29Aug2025 02:08:59.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> es linea recta que te vas a perder
+[29Aug2025 02:08:59.728] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1460.59, y=78.00, z=-3076.87]]
+[29Aug2025 02:08:59.778] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1460.59, y=78.00, z=-3076.87]]
+[29Aug2025 02:09:00.778] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1459.41, y=78.12, z=-3079.78]]
+[29Aug2025 02:09:00.828] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1459.33, y=77.68, z=-3080.03]]
+[29Aug2025 02:09:00.928] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1459.18, y=77.00, z=-3080.54]]
+[29Aug2025 02:09:00.978] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1458.95, y=77.42, z=-3081.06]]
+[29Aug2025 02:09:04.328] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1455.12, y=76.00, z=-3085.74]]
+[29Aug2025 02:09:05.178] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1447.34, y=76.31, z=-3097.83]]
+[29Aug2025 02:09:05.778] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1447.19, y=77.00, z=-3099.49]]
+[29Aug2025 02:09:06.728] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1447.21, y=77.20, z=-3102.34]]
+[29Aug2025 02:09:07.228] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1446.36, y=76.54, z=-3103.95]]
+[29Aug2025 02:09:11.078] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1444.79, y=72.50, z=-3127.29]]
+[29Aug2025 02:09:11.578] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1444.10, y=73.02, z=-3130.85]]
+[29Aug2025 02:09:12.028] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1445.15, y=72.00, z=-3115.77]]
+[29Aug2025 02:09:12.228] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1445.20, y=72.00, z=-3116.89]]
+[29Aug2025 02:09:14.028] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1445.47, y=73.25, z=-3126.25]]
+[29Aug2025 02:09:14.428] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1440.26, y=70.42, z=-3150.46]]
+[29Aug2025 02:09:14.478] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1440.12, y=70.75, z=-3150.78]]
+[29Aug2025 02:09:14.578] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1445.42, y=73.25, z=-3129.06]]
+[29Aug2025 02:09:15.528] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1445.16, y=72.00, z=-3132.60]]
+[29Aug2025 02:09:16.628] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1444.86, y=72.00, z=-3136.12]]
+[29Aug2025 02:09:18.828] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1442.35, y=71.80, z=-3143.74]]
+[29Aug2025 02:09:21.228] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1423.51, y=67.12, z=-3195.15]]
+[29Aug2025 02:09:21.428] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1423.59, y=67.00, z=-3196.35]]
+[29Aug2025 02:09:22.378] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1434.05, y=70.17, z=-3167.24]]
+[29Aug2025 02:09:23.328] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1419.41, y=67.00, z=-3205.73]]
+[29Aug2025 02:09:23.478] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1431.50, y=69.75, z=-3174.66]]
+[29Aug2025 02:09:23.878] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1430.64, y=69.50, z=-3177.20]]
+[29Aug2025 02:09:25.028] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1428.10, y=69.25, z=-3184.62]]
+[29Aug2025 02:09:25.478] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1426.96, y=67.75, z=-3187.94]]
+[29Aug2025 02:09:26.928] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1415.18, y=66.12, z=-3227.27]]
+[29Aug2025 02:09:31.378] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1413.43, y=67.00, z=-3227.45]]
+[29Aug2025 02:09:31.478] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1405.24, y=67.17, z=-3254.15]]
+[29Aug2025 02:09:31.728] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1412.56, y=68.18, z=-3229.99]]
+[29Aug2025 02:09:31.828] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1403.45, y=66.12, z=-3255.51]]
+[29Aug2025 02:09:32.078] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1411.71, y=67.75, z=-3232.41]]
+[29Aug2025 02:09:32.778] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1410.09, y=66.75, z=-3237.02]]
+[29Aug2025 02:09:32.828] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1409.97, y=67.00, z=-3237.35]]
+[29Aug2025 02:09:33.978] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1407.47, y=65.12, z=-3244.41]]
+[29Aug2025 02:09:34.128] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1407.04, y=65.75, z=-3245.62]]
+[29Aug2025 02:09:35.178] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1404.62, y=66.75, z=-3252.97]]
+[29Aug2025 02:09:36.378] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1399.60, y=66.42, z=-3257.86]]
+[29Aug2025 02:09:37.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> eso no lo toques
+[29Aug2025 02:09:40.828] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1403.28, y=66.00, z=-3272.27]]
+[29Aug2025 02:09:43.428] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1402.10, y=67.17, z=-3271.34]]
+[29Aug2025 02:09:45.528] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1386.23, y=68.00, z=-3278.39]]
+[29Aug2025 02:09:46.560] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1387.40, y=69.17, z=-3279.08]]
+[29Aug2025 02:09:46.778] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1386.37, y=68.80, z=-3280.13]]
+[29Aug2025 02:09:47.578] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1375.20, y=69.25, z=-3285.50]]
+[29Aug2025 02:09:48.328] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1377.81, y=69.17, z=-3285.84]]
+[29Aug2025 02:09:48.378] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1373.10, y=68.00, z=-3287.98]]
+[29Aug2025 02:09:49.928] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1372.58, y=68.00, z=-3288.81]]
+[29Aug2025 02:09:50.828] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1372.58, y=68.00, z=-3288.81]]
+[29Aug2025 02:09:51.178] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1372.56, y=68.00, z=-3289.23]]
+[29Aug2025 02:09:51.278] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1372.53, y=68.00, z=-3289.37]]
+[29Aug2025 02:09:52.678] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1368.69, y=67.00, z=-3295.79]]
+[29Aug2025 02:09:52.977] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1359.05, y=69.75, z=-3308.89]]
+[29Aug2025 02:09:53.028] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1358.90, y=70.00, z=-3309.19]]
+[29Aug2025 02:09:53.228] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1358.29, y=70.18, z=-3310.35]]
+[29Aug2025 02:09:53.828] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1356.38, y=70.18, z=-3314.11]]
+[29Aug2025 02:09:55.478] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1357.77, y=70.17, z=-3311.49]]
+[29Aug2025 02:09:57.028] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1354.52, y=69.12, z=-3319.80]]
+[29Aug2025 02:09:57.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> cuidado
+[29Aug2025 02:09:57.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 02:09:57.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 02:09:57.828] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1355.18, y=69.00, z=-3319.07]]
+[29Aug2025 02:09:57.878] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1353.76, y=70.00, z=-3319.00]]
+[29Aug2025 02:09:58.578] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1354.34, y=69.92, z=-3318.86]]
+[29Aug2025 02:10:00.378] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1354.21, y=70.00, z=-3318.64]]
+[29Aug2025 02:10:00.478] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1350.33, y=71.02, z=-3320.53]]
+[29Aug2025 02:10:00.577] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1354.21, y=70.00, z=-3318.64]]
+[29Aug2025 02:10:00.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> es estrecho
+[29Aug2025 02:10:01.027] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1349.27, y=71.18, z=-3321.49]]
+[29Aug2025 02:10:01.377] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1354.21, y=70.00, z=-3318.64]]
+[29Aug2025 02:10:03.627] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1353.92, y=70.00, z=-3320.51]]
+[29Aug2025 02:10:04.028] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/1600, l='ServerLevel[world]', x=-1353.37, y=70.00, z=-3320.28]]
+[29Aug2025 02:10:33.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> aqui esperas un rato
+[29Aug2025 02:10:36.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> y caen cerdos
+[29Aug2025 02:10:55.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> aprox en un minuto se llena
+[29Aug2025 02:11:14.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> perfecto ahora a matar ya ya
+[29Aug2025 02:11:35.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> deja que el ataque se recargue eso marrano
+[29Aug2025 02:12:02.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> acercate mrd ahí hay experiencia
+[29Aug2025 02:12:06.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> pero no cae nada al cofre
+[29Aug2025 02:12:11.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> no pues eos falta
+[29Aug2025 02:12:19.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> es super complejo el sistema de recolección
+[29Aug2025 02:12:22.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> necesito miel
+[29Aug2025 02:12:25.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> y slime
+[29Aug2025 02:12:45.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ve nivel 30 ya estoy
+[29Aug2025 02:13:09.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> aqui es la posición en el cofre y ma mesa de crafte4o
+[29Aug2025 02:13:55.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> a ver para probar dejame ir al over wordl y me avisas si sigue funcionando
+[29Aug2025 02:14:03.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> yap
+[29Aug2025 02:14:09.862] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1353.19, y=70.80, z=-3319.30]]
+[29Aug2025 02:14:10.396] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1354.03, y=70.00, z=-3318.24]]
+[29Aug2025 02:14:13.528] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1349.84, y=70.00, z=-3303.20]]
+[29Aug2025 02:14:13.578] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1349.59, y=70.42, z=-3302.73]]
+[29Aug2025 02:14:13.678] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1349.31, y=71.00, z=-3302.16]]
+[29Aug2025 02:14:14.128] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1349.52, y=70.00, z=-3300.50]]
+[29Aug2025 02:14:15.227] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1355.76, y=70.02, z=-3300.42]]
+[29Aug2025 02:14:15.978] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1358.61, y=69.12, z=-3297.62]]
+[29Aug2025 02:14:17.577] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1364.66, y=68.92, z=-3291.27]]
+[29Aug2025 02:14:18.578] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1369.98, y=69.00, z=-3288.39]]
+[29Aug2025 02:14:21.827] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1379.54, y=68.00, z=-3283.05]]
+[29Aug2025 02:14:22.028] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1379.54, y=68.00, z=-3283.05]]
+[29Aug2025 02:14:22.545] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1379.54, y=68.00, z=-3283.05]]
+[29Aug2025 02:14:22.978] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1379.54, y=68.00, z=-3283.05]]
+[29Aug2025 02:14:24.078] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1379.54, y=68.00, z=-3283.05]]
+[29Aug2025 02:14:24.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> siguen saliendo?
+[29Aug2025 02:14:25.727] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1383.73, y=69.25, z=-3280.48]]
+[29Aug2025 02:14:25.878] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1383.85, y=69.02, z=-3279.67]]
+[29Aug2025 02:14:26.177] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1384.05, y=68.75, z=-3277.73]]
+[29Aug2025 02:14:27.377] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1386.32, y=68.75, z=-3269.75]]
+[29Aug2025 02:14:27.478] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1386.50, y=69.17, z=-3269.07]]
+[29Aug2025 02:14:27.577] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1386.69, y=69.25, z=-3268.42]]
+[29Aug2025 02:14:29.628] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1395.12, y=66.42, z=-3259.26]]
+[29Aug2025 02:14:30.177] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1397.24, y=66.00, z=-3257.69]]
+[29Aug2025 02:14:30.427] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1397.03, y=66.00, z=-3256.88]]
+[29Aug2025 02:14:30.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> sisas
+[29Aug2025 02:14:30.977] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1396.94, y=66.00, z=-3256.80]]
+[29Aug2025 02:14:32.277] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1396.94, y=66.00, z=-3256.80]]
+[29Aug2025 02:14:32.377] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1396.94, y=66.00, z=-3256.80]]
+[29Aug2025 02:14:34.528] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1396.94, y=66.00, z=-3256.80]]
+[29Aug2025 02:14:35.777] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1396.94, y=66.00, z=-3256.80]]
+[29Aug2025 02:14:36.827] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1396.94, y=66.00, z=-3256.80]]
+[29Aug2025 02:14:37.327] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1396.94, y=66.00, z=-3256.80]]
+[29Aug2025 02:14:38.077] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1396.94, y=66.00, z=-3256.80]]
+[29Aug2025 02:14:38.778] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1396.94, y=66.00, z=-3256.80]]
+[29Aug2025 02:14:38.827] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1396.94, y=66.00, z=-3256.80]]
+[29Aug2025 02:14:41.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> uy ya entonces si le hice bien no cargo el chunk del pasillo
+[29Aug2025 02:14:41.978] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1396.94, y=66.00, z=-3256.27]]
+[29Aug2025 02:14:43.028] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1394.43, y=66.80, z=-3250.51]]
+[29Aug2025 02:14:43.927] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1391.59, y=67.00, z=-3244.95]]
+[29Aug2025 02:14:44.678] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1389.85, y=67.25, z=-3240.35]]
+[29Aug2025 02:14:44.977] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1389.44, y=68.00, z=-3238.24]]
+[29Aug2025 02:14:47.327] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1384.32, y=70.00, z=-3232.10]]
+[29Aug2025 02:14:47.827] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1384.30, y=70.35, z=-3234.57]]
+[29Aug2025 02:14:48.027] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1384.02, y=70.42, z=-3235.70]]
+[29Aug2025 02:14:48.128] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1383.84, y=71.00, z=-3236.22]]
+[29Aug2025 02:14:49.027] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1382.54, y=70.80, z=-3240.38]]
+[29Aug2025 02:14:49.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ya dejaron de salir jaja
+[29Aug2025 02:14:49.827] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1380.30, y=70.18, z=-3243.69]]
+[29Aug2025 02:14:50.777] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1378.20, y=68.00, z=-3248.67]]
+[29Aug2025 02:14:51.327] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1377.57, y=68.12, z=-3251.89]]
+[29Aug2025 02:14:51.427] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1377.57, y=67.16, z=-3252.13]]
+[29Aug2025 02:14:51.677] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1377.81, y=68.17, z=-3252.16]]
+[29Aug2025 02:14:52.327] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1378.05, y=67.00, z=-3252.06]]
+[29Aug2025 02:14:52.727] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Jorgelson'/707, l='ServerLevel[world]', x=-1378.05, y=67.00, z=-3252.06]]
