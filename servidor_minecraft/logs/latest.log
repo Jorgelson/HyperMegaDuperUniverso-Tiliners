@@ -241,3 +241,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [29Aug2025 02:54:58.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> waaaaajaja
 [29Aug2025 02:55:03.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> JAJAJAJAJ
 [29Aug2025 02:55:28.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> mas bugueado me dejaron ajja
+[29Aug2025 03:07:47.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
+[29Aug2025 03:07:47.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
