@@ -98,3 +98,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [30Aug2025 02:38:20.124] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1499 Y: 67 Z: -2589
 [30Aug2025 02:44:37.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
 [30Aug2025 02:44:37.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[30Aug2025 02:52:10.842] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bakhu_sa[/127.115.12.219:36155] logged in with entity id 97341 at (-1472.2875148643243, 69.0, -2604.083788592002)
+[30Aug2025 02:52:10.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa joined the game
