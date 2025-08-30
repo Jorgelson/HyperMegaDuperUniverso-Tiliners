@@ -111,3 +111,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [30Aug2025 03:38:57.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1498, y=64, z=-2572} BlockPos{x=-1498, y=62, z=-2572}
 [30Aug2025 03:38:57.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1498, y=64, z=-2572} BlockPos{x=-1498, y=62, z=-2572}
 [30Aug2025 03:38:57.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1499, y=64, z=-2572} BlockPos{x=-1498, y=62, z=-2572}
+[30Aug2025 04:07:28.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bakhu_sa lost connection: Disconnected
+[30Aug2025 04:07:28.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa left the game
