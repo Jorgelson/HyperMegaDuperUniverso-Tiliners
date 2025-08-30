@@ -92,3 +92,4 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [30Aug2025 01:18:46.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson drowned
 [30Aug2025 01:18:46.808] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jorgelson with unique ID travelersbackpack.spider_30.08.2025-01.18.46.dat
 [30Aug2025 01:18:46.811] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1515 Y: 60 Z: -2573
+[30Aug2025 02:34:50.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson has made the advancement [Enchanter]
