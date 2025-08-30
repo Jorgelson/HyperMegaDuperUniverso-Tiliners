@@ -100,3 +100,14 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [30Aug2025 02:44:37.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
 [30Aug2025 02:52:10.842] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bakhu_sa[/127.115.12.219:36155] logged in with entity id 97341 at (-1472.2875148643243, 69.0, -2604.083788592002)
 [30Aug2025 02:52:10.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa joined the game
+[30Aug2025 03:38:45.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1497, y=64, z=-2576} BlockPos{x=-1498, y=62, z=-2576}
+[30Aug2025 03:38:45.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1497, y=64, z=-2576} BlockPos{x=-1498, y=62, z=-2576}
+[30Aug2025 03:38:45.383] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1497, y=64, z=-2576} BlockPos{x=-1498, y=62, z=-2576}
+[30Aug2025 03:38:50.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=64, z=-2574} BlockPos{x=-1512, y=62, z=-2574}
+[30Aug2025 03:38:50.881] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=64, z=-2574} BlockPos{x=-1512, y=62, z=-2574}
+[30Aug2025 03:38:51.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1511, y=64, z=-2574} BlockPos{x=-1510, y=62, z=-2574}
+[30Aug2025 03:38:51.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1511, y=64, z=-2574} BlockPos{x=-1510, y=62, z=-2574}
+[30Aug2025 03:38:57.477] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1498, y=64, z=-2572} BlockPos{x=-1498, y=62, z=-2572}
+[30Aug2025 03:38:57.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1498, y=64, z=-2572} BlockPos{x=-1498, y=62, z=-2572}
+[30Aug2025 03:38:57.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1498, y=64, z=-2572} BlockPos{x=-1498, y=62, z=-2572}
+[30Aug2025 03:38:57.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1499, y=64, z=-2572} BlockPos{x=-1498, y=62, z=-2572}
